@@ -1,0 +1,2 @@
+# Halo MCC Modding Notes
+These are not official or anything. These are just notes I've written out while tinkering around and talking to people. I will try to credit where I've learned certain things. This guide mainly focuses on Reach for PC.
