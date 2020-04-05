@@ -1,4 +1,4 @@
-## Weapon Modding
+# Weapon Modding
 ### Changing Physics Impact From Bullets/Projectiles
 Will allow players and objects to fly even further when impacted by bullets/projectiles
 - Locate the desired .weap
